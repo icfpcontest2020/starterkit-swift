@@ -1,1 +1,6 @@
 Dockerfile
+.DS_Store
+app/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
